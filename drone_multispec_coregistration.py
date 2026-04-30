@@ -74,7 +74,7 @@ AUTHORS
 
 LICENSE
 -------
-    MIT License - free to use, modify and distribute with attribution.
+    MIT License - free to use, modify and distribute.
 """
 
 # ══════════════════════════════════════════════════════════════
