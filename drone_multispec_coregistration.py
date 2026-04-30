@@ -66,7 +66,7 @@ USAGE
 AUTHORS
 -------
     Developed collaboratively by:
-      - L. Valdes Sauce  (domain expertise, field validation, testing)
+      - Lelian15 (domain expertise, field validation, testing)
       - Claude (Anthropic) - claude-sonnet-4-6
         https://www.anthropic.com
 
